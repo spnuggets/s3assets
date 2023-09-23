@@ -4,10 +4,10 @@
         "Id": 3102000,
         "MsgLabelEx": ,
         "Name": "CatalogueLevel_Lv00",
-		"Order": 3102000,
-		"Sub1_Int": 50,
-		"Sub1_Str": ,
-		"Sub1_Int": 0,
+	"Order": 3102000,
+	"Sub1_Int": 50,
+	"Sub1_Str": ,
+	"Sub1_Int": 0,
         "__RowId": "Work/Gyml/BadgeInfo_CatalogueLevel_Lv00.spl__BadgeInfo.gyml"
     },
     {
@@ -15,10 +15,10 @@
         "Id": 3102001,
         "MsgLabelEx": ,
         "Name": "CatalogueLevel_Lv01",
-		"Order": 3102001,
-		"Sub1_Int": 100,
-		"Sub1_Str": ,
-		"Sub1_Int": 0,
+	"Order": 3102001,
+	"Sub1_Int": 100,
+	"Sub1_Str": ,
+	"Sub1_Int": 0,
         "__RowId": "Work/Gyml/BadgeInfo_CatalogueLevel_Lv01.spl__BadgeInfo.gyml"
     }
 ]
