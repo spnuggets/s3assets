@@ -13142,15 +13142,15 @@
     },
     {
         "DebugDispColumn": 0,
-        "DebugDispOrder": 2010,
+        "DebugDispOrder": 10,
         "DefaultDamageRateInfoRow": "Shooter",
         "DefaultHitEffectorType": "Shooter",
         "ExtraDamageRateInfoRowSet": [],
         "ExtraHitEffectorInfoSet": [],
         "GameActor": "Work/Actor/WmnG_Shooter_QuickLong_Og_00.engine__actor__ActorParam.gyml",
-        "Id": 10310,
+        "Id": 103,
         "IsCoopRare": false,
-        "LObjParam": "Work/Gyml/LObj_Wmn_Shooter_QuickLong.spl__LockerObjParam.gyml",
+        "LObjParam": "Work/Gyml/LObj_Wmn_Shooter_QuickLong_Og.spl__LockerObjParam.gyml",
         "Label": "スペースシューター",
         "LockerContentInfo": [
             "Work/Locker/Shooter_QuickLong_00_Preset_00.byml"
@@ -13184,9 +13184,9 @@
                 "Value": 60
             }
         ],
-        "WeaponInfoForCoop": "Work/Gyml/Shooter_QuickLong_Og_00_Coop.spl__WeaponInfoMain.gyml",
+        "WeaponInfoForCoop": "",
         "__RowId": "Shooter_QuickLong_Og_00"
-    },
+    } 
     {
         "DebugDispColumn": 0,
         "DebugDispOrder": 10,
@@ -13235,3 +13235,4 @@
         "__RowId": "Shooter_QuickLong_Og_01"
     } 
 ]
+
