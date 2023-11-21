@@ -13235,8 +13235,8 @@
         "__RowId": "Shooter_QuickLong_Og_01"
     },
     {
-        "DebugDispColumn": 0,
-        "DebugDispOrder": 2071,
+        "DebugDispColumn": 1,
+        "DebugDispOrder": 207,
         "DefaultDamageRateInfoRow": "Default",
         "DefaultHitEffectorType": "Charger",
         "ExtraDamageRateInfoRowSet": [
